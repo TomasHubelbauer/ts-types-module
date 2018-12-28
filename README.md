@@ -73,8 +73,7 @@ but is also at the global scope.
 
 Whether that is even possible is the question.
 
-- [ ] Flesh out the demo code to demonstrate the above
-- [ ] Figure out how to solve it / ask for help
+- [ ] Check out https://stackoverflow.com/a/51238234/2715716
 
 Azure Pipelines which runs TypeScript type checking on this repository:
 
