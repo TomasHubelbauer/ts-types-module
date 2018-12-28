@@ -4,8 +4,8 @@
     "checkJs": true,
     "noEmit": true,
     "types": [
-      "pkg/depA",
-      "pkg/depB"
+      "../pkg/depA",
+      "../pkg/depB"
     ]
   }
 }
