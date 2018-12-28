@@ -75,3 +75,9 @@ Whether that is even possible is the question.
 
 - [ ] Flesh out the demo code to demonstrate the above
 - [ ] Figure out how to solve it / ask for help
+
+Azure Pipelines which runs TypeScript type checking on this repository:
+
+[![](https://tomashubelbauer.visualstudio.com/TS-types-module/_apis/build/status/TS-types-module-CI?branchName=master)](
+  https://tomashubelbauer.visualstudio.com/TS-types-module/_build/latest?definitionId=9?branchName=master
+)
