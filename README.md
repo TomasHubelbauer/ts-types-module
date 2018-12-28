@@ -3,6 +3,8 @@
 This repository is an experiment in seeing whether TypeScript will correctly see types on a global scope
 when type checking JavaScript and pulling in packages who export their types in a module file.
 
+See the [**online demo**](https://tomashubelbauer.github.io/ts-types-module/)
+
 The JavaScript project may be a simple file:
 
 `index.js`
