@@ -81,3 +81,8 @@ Azure Pipelines which runs TypeScript type checking on this repository:
 [![](https://tomashubelbauer.visualstudio.com/TS-types-module/_apis/build/status/TS-types-module-CI?branchName=master)](
   https://tomashubelbauer.visualstudio.com/TS-types-module/_build/latest?definitionId=9?branchName=master
 )
+
+
+Stack Overflow question dealing with this:
+
+[TypeScript compilerOptions.types with a module](https://stackoverflow.com/q/53958469/2715716)
